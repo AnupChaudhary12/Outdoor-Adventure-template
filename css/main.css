@@ -224,6 +224,7 @@ border-radius: 30px;
     background-image: url("../images/about-bg-5.jpg");
     background-position: center;
     text-align: center;
+    background-size: cover;
 
 }
 .about-banner::before{
@@ -284,3 +285,23 @@ footer{
     line-height: 27.2px;
     text-align: center;
 }
+
+
+
+/*------------Services------------*/
+.service-banner{
+    background-image: url("../images/services-bg.jpg");
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+
+}
+
+.service-title h1{
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 90px;
+    padding-bottom: 265px;
+}
+
